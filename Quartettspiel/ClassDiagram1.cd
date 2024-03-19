@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Quartettspiel.Kartendeck">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAIAIAAAAgAACAAAAAAgAAEAgAAAAAgAACAA=</HashCode>
+      <FileName>Kartendeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quartettspiel.Kartenstapel">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgABgAAAAAAQAAgAIAAAAACAA=</HashCode>
+      <FileName>Kartenstapel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quartettspiel.Spieler">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAEAAAAACACAAAAAAAQAAAAAABAA=</HashCode>
+      <FileName>Spieler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quartettspiel.Gegner">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Gegner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
