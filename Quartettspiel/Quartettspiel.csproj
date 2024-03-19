@@ -53,6 +53,8 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Gegner.cs" />
+    <Compile Include="Karte.cs" />
+    <Compile Include="Kartendaten.cs" />
     <Compile Include="Kartendeck.cs" />
     <Compile Include="Kartenstapel.cs" />
     <Compile Include="Program.cs" />
